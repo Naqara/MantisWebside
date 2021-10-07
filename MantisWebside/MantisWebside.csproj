@@ -70,6 +70,11 @@
     <Content Include="about.html" />
     <Content Include="contact.html" />
     <Content Include="gallery.html" />
+    <Content Include="images\DSC_0049.JPG" />
+    <Content Include="images\DSC_0053.JPG" />
+    <Content Include="images\DSC_0070.JPG" />
+    <Content Include="images\DSC_0084.JPG" />
+    <Content Include="images\DSC_0088.JPG" />
     <Content Include="index.html" />
     <Content Include="news.html" />
     <Content Include="price-list.html" />
@@ -89,7 +94,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="images\" />
     <Folder Include="styles\images\" />
     <Folder Include="styles\pages\" />
   </ItemGroup>
