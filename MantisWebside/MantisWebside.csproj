@@ -67,6 +67,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="about.html" />
+    <Content Include="contact.html" />
+    <Content Include="gallery.html" />
+    <Content Include="index.html" />
+    <Content Include="news.html" />
+    <Content Include="price-list.html" />
+    <Content Include="regulations.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -80,6 +87,11 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="images\" />
+    <Folder Include="styles\images\" />
+    <Folder Include="styles\pages\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
