@@ -70,6 +70,7 @@
     <Content Include="about.html" />
     <Content Include="contact.html" />
     <Content Include="gallery.html" />
+    <Content Include="guide.html" />
     <Content Include="images\DSC_0049.JPG" />
     <Content Include="images\DSC_0053.JPG" />
     <Content Include="images\DSC_0070.JPG" />
