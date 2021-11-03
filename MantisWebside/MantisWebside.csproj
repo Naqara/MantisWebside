@@ -80,6 +80,7 @@
     <Content Include="news.html" />
     <Content Include="price-list.html" />
     <Content Include="regulations.html" />
+    <Content Include="styles\site.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
